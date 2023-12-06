@@ -1,0 +1,733 @@
+--------------------------------------------------------------------------------------
+ID-EMPLEADO | NOMBRE                    | APELLIDO                  | IMPORTE
+--------------------------------------------------------------------------------------
+12566708    | CASTILLON                 | FELICITA VICTORIA         |     2.355.258,05
+12566709    | SANCHEZ                   | PAOLA DEL ROSARIO         |     3.090.146,98
+12566710    | CAJAS                     | BETTY GENARA              |     2.574.851,17
+12566711    | SANCHEZ                   | ELIZABETH LUZ             |     1.075.814,94
+12566714    | MENACHO                   | PEDRO ALFONSO             |       251.949,16
+12566719    | FERNANDEZ                 | URSULA MARIA              |     2.106.771,21
+12566720    | JARA                      | JUAN                      |     2.246.072,52
+12566725    | TASAYCO                   | ROSA HELLEN               |     2.586.413,87
+12566730    | COLOMA                    | JIMMY VICTOR              |     2.229.032,03
+12566731    | REED                      | EDWIN EDDY                |     2.701.255,93
+12566732    | FERNANDEZ CONCHA          | MARIA LAURA               |     2.937.265,30
+12566733    | NIQUEN                    | MIGUEL                    |     3.033.226,29
+12566734    | JIMENEZ                   | JULISSA LIZETH            |     2.568.872,96
+12566735    | SANCHEZ                   | RUTH OLINDA               |     2.212.716,07
+12566737    | VALDEZ                    | ESTHER MARICEL            |     2.196.157,52
+12566738    | AVANTO                    | GUIDO                     |     2.243.009,28
+12566739    | PARDO                     | MARIBEL CRISPINA          |     2.857.130,60
+12566740    | PERSIVALE                 | CARLOS                    |     2.686.777,48
+12566743    | MARTINEZ                  | CLAUDIA ROZANA            |     2.645.495,39
+12566744    | TORRES                    | SANDRA FRANCESCA          |       162.098,90
+12566745    | TRUJILLO                  | MARISSEL ALICIA           |     3.206.142,57
+12566746    | MARCELO                   | MAXIMO GRIGORIY           |     2.454.933,36
+12566749    | RIVERA                    | EDDY GUILLERMO            |     2.547.846,44
+12566751    | ORTEGA                    | JOSE MIGUEL GIUSEPPI      |     2.859.462,13
+12566753    | VARELA                    | JOSE LUIS                 |     3.103.657,60
+12566754    | HANDAL DE NAVEA           | KARIM ARACELLY            |     2.170.604,68
+12566755    | SANCHEZ                   | PATRICK                   |     2.158.427,99
+12566756    | RIVERA                    | CARLOS                    |     2.635.695,49
+12566757    | SILVERA                   | CELIA VICTORIA            |     2.366.393,44
+12566758    | CAPCHA                    | ALDO JOSE                 |     2.667.188,76
+12566759    | GARCIA                    | ELIZABETH MARIA           |     2.938.378,30
+12566762    | PACHAS                    | JUANA BERTHA              |     2.270.970,95
+12566764    | FREITAS                   | LUIS ALEJANDRO            |     2.461.281,32
+12566766    | DONGO                     | JUAN CARLOS               |     3.204.299,31
+12566767    | OVIEDO                    | YOLANDA                   |     2.803.346,05
+12566768    | SUING                     | JODY MERCEDES             |     3.159.751,35
+12566773    | SEGOVIA                   | ALFREDO JAIME             |     3.407.924,02
+12566778    | AYALA                     | ELVIA                     |     2.746.437,60
+12566779    | GALVAN                    | ROSA CECILIA              |     3.296.739,81
+12566780    | BERNAOLA                  | ELZA                      |     2.394.364,80
+12566781    | PINEDA                    | ANTONIETA JANET           |     2.791.612,07
+12566782    | NORTON                    | BRENDA CAROL              |     2.917.730,24
+12566783    | SALAS                     | PATRICIA CAROL            |     2.671.663,69
+12566785    | GONZALES                  | MARIA FRANCISCA           |     2.441.509,05
+12566786    | ASCURRA                   | PERCY AGUSTIN             |     2.330.093,16
+12566787    | RUIZ                      | ALONSO ALEJANDRO          |     2.732.120,02
+12566788    | NAVAS                     | ELSA JANET                |     3.524.442,59
+12566791    | POLLERI                   | NICOLE ADRIANA            |     2.241.249,55
+12566792    | POSADAS                   | JUAN JOSE                 |     2.769.404,72
+12566793    | RIVAS                     | ROSANGELA VERONICA        |     2.912.385,09
+12566794    | CACERES                   | ROLANDO                   |     2.728.254,63
+12566797    | VELA                      | ISABELITA                 |     2.207.660,31
+12566799    | JACOBE                    | ANDRES ALEJANDRO          |     2.577.578,98
+12566801    | TASAYCO                   | JOSE LUIS                 |     2.934.587,27
+12566802    | BERROSPI                  | JAVIER FERNANDO           |     2.383.958,80
+12566803    | MEJORADA                  | MANUEL HERNAN             |     2.552.602,82
+12566804    | ABARCA                    | GLHINDA MARLENY           |     3.144.826,22
+12566805    | GUERRA                    | EMMA ELINA                |     2.909.460,50
+12566806    | CASTRO                    | CECILIA YOVANA            |     2.876.948,64
+12566807    | ESPINOZA                  | MARIA LOURDES             |     2.509.742,58
+12566810    | CASTILLON                 | NESTOR ALCIDES            |     2.559.925,73
+12566812    | COA                       | LUCAS                     |     2.951.045,68
+12566814    | ASTETE                    | ANDRES FRANCISCO          |     2.495.067,32
+12566815    | SAMANAMUD                 | FABIAN JOHANN             |     2.670.808,87
+12566816    | BELLIDO                   | ISELA LILIANA             |     2.408.392,42
+12566821    | LOYOLA                    | JUAN MARTIN               |     2.695.995,72
+12566826    | GALVEZ                    | BENITA                    |     2.732.871,68
+12566827    | LENTA                     | JOSIAH MATTEO             |     3.027.382,61
+12566828    | MEZARINA                  | LUCA TIMOTHY              |     2.530.388,23
+12566829    | ROBANCHO                  | MARIA PIA                 |     2.624.521,73
+12566830    | ALVAREZ                   | ALEXANDER GEORGE          |     2.813.325,56
+12566831    | VIDAL                     | EDGARD GUSTAVO            |     3.231.801,94
+12566833    | SOSA                      | MARIA DE JESUS            |     2.631.691,81
+12566834    | ALFARO                    | MARIA ROCIO               |     2.294.100,70
+12566835    | ANTEZANA                  | ALEXA RAE                 |     2.548.551,69
+12566836    | CORTEZ                    | SEVASTIAN ISAIAH          |     2.628.059,75
+12566839    | VASQUEZ                   | ALESSANDRO                |     3.080.377,28
+12566840    | ACHA                      | SANDRO PABLO              |     3.219.125,12
+12566841    | BARRENECHEA               | FERNANDO                  |     2.050.917,03
+12566842    | DAVILA                    | ANA CECILIA               |     3.153.694,44
+12566845    | TORRES                    | MILLIE JANELLE            |     2.341.573,45
+12566847    | CARRILLO                  | JOSE HUMBERTO             |     2.639.373,44
+12566849    | SANTOLALLA                | GABRIELA DENISSE          |     2.299.454,64
+12566850    | CACERES                   | JESSICA ANDREA            |     2.743.180,50
+12566851    | VARGAS                    | OLGA VICTORIA             |     2.918.789,37
+12566852    | LUQUE                     | JULIA                     |     2.675.047,43
+12566853    | MILLA                     | ROSSANA ELIZABETH         |     2.579.778,76
+12566854    | ALVAREZ                   | JULIO CESAR               |     3.063.049,13
+12566855    | VARGAS                    | CARLOS ALEJANDRO          |     2.714.106,80
+12566858    | MOSCOSO                   | IAN MATHIS                |     2.262.638,04
+12566860    | PACUSSICH                 | ASCENCION                 |     2.713.103,78
+12566862    | PECHO                     | FERNANDO                  |     2.695.332,28
+12566863    | RIVASPLATA                | SUT LAN                   |     3.244.977,01
+12566864    | ALARCON                   | CARMEN PATRICIA           |     2.372.729,41
+12566869    | VARGAS                    | DELIA LUCIA               |     3.338.607,85
+12566874    | CAJAS                     | DENISE BELINDA            |     2.729.805,43
+12566875    | CARDENAS                  | HUGO ALBERTO              |     2.754.476,58
+12566876    | TONG                      | RUTH TANIA                |     2.842.575,53
+12566877    | YUI                       | LEONOR DORIS              |     3.091.129,15
+12566878    | ECHEVARRIA                | OMAR                      |     2.887.196,85
+12566879    | FERNANDEZ                 | THIAGO                    |     3.476.442,74
+12566881    | YU                        | VANESSA SAMANTA           |     2.186.057,91
+12566882    | MOLINA                    | BRENDA YOLIZA             |     2.176.662,51
+12566883    | SIFUENTES                 | ELISA INES                |     2.528.850,69
+12566884    | FARJE                     | JORGE EDUARDO             |     2.141.579,64
+12566887    | SALAS                     | KAREN ANGELICA            |     2.830.116,42
+12566888    | APARCANA                  | GINO PAOLO                |     3.402.371,84
+12566889    | MORON                     | JOSIAH MATTEO             |     2.639.635,33
+12566890    | NUVE                      | LUCA TIMOTHY              |     2.982.095,54
+12566893    | FONSECA                   | MARIA DE LOS ANGELES      |     2.161.803,79
+12566895    | ROSALES                   | SAMY ADAM                 |     2.729.442,42
+12566897    | JAVIER                    | HAYRO GABRIEL             |     2.770.670,94
+12566898    | RAMIREZ                   | MANUEL ANTONIO            |     2.595.091,36
+12566899    | VEXLER                    | MARIA CECILIA             |     2.700.814,13
+12566900    | DOMINGUEZ                 | PAMELA LESLIE             |     2.592.232,55
+12566901    | MIANI                     | DARLING SOFIA             |     2.782.790,20
+12566902    | HOLGUIN                   | TERESA                    |     1.894.682,88
+12566903    | LA PORTILLA               | JUAN CARLOS               |     2.544.231,67
+12566906    | GARCIA                    | ANNY IDA                  |     2.860.948,69
+12566908    | MONTENEGRO                | ZARA JULIETA              |     2.902.804,66
+12566910    | PAICO                     | JORGE                     |     2.738.782,03
+12566911    | VILCHEZ                   | MANUEL LEONARDO           |     2.983.327,43
+12566912    | GALARRETA                 | DAVID ANGELO              |     2.351.419,43
+12566917    | SALINAS                   | GENESIS DEZARIE           |     2.365.667,60
+12566922    | BARRIENTOS                | YAN PIERRE                |     2.892.881,40
+12566923    | ZAVALETA                  | AARON                     |     3.003.978,62
+12566924    | LOPEZ                     | BRANDON                   |     2.252.624,26
+12566925    | SANCHEZ                   | INGRID                    |     2.162.498,17
+12566926    | CALDERON                  | BIANCA CECILIA            |     3.093.891,32
+12566927    | IZQUIERDO                 | DANIEL ALBERTO            |     2.350.857,64
+12566929    | MORENO                    | ISABELITA                 |     3.056.886,36
+12566930    | DE CAVERO                 | DENISE BELINDA            |     2.764.074,57
+12566931    | GARCIA                    | HILDA MILAGRITOS          |     2.218.119,46
+12566932    | BAZAN                     | RAUL ANGEL JOSE           |     2.484.963,31
+12566935    | VILLALOBOS                | LUIS ALEJANDRO            |     2.676.522,25
+12566936    | ARIAS                     | GLORIA MARGARITA          |     2.840.430,47
+12566937    | CASTRO                    | ROSA ELVIRA               |     2.067.978,02
+12566938    | COLLAZOS                  | RAFAEL                    |     3.704.548,95
+12566941    | ZAMALLOA                  | LEONEL SAUL               |     2.463.897,41
+12566943    | SORIANO                   | CARMEN ROSA               |     2.487.670,36
+12566945    | RODRIGUEZ                 | JESSE ALEXANDER           |     2.825.899,94
+12566946    | CARRANZA                  | JESSICA ANDREA            |     2.282.722,50
+12566947    | PARI                      | LILA CHARLIZE             |     2.924.285,64
+12566948    | CASO                      | LUISA ESPERANZA           |     2.296.991,25
+12566949    | MUÑOZ                     | MILTON ANGELO             |     3.182.621,43
+12566950    | FOSTER                    | VIVIANA VANESSA           |     3.041.422,24
+12566951    | HIDALGO                   | LILIANA CATALINA          |     2.711.706,63
+12566954    | CALDERON                  | SHIRLEY                   |     2.947.354,60
+12566956    | CALIZAYA                  | TIMOTEO                   |     2.755.894,33
+12566958    | LEO                       | JENNY ISABEL              |     3.233.860,64
+12566959    | MORILLA                   | ROXANA MIRTHA             |     2.810.060,22
+12566960    | HERNANDEZ                 | EDUARDO ANGEL             |     2.919.208,26
+12566965    | RAMIREZ                   | DANIEL FRANCISCO          |     2.710.792,00
+12566970    | MILJANOVICH               | ENRIQUE ARTURO            |     2.519.159,99
+12566971    | RAGOSTA                   | MYRKA VALERY              |     2.613.406,45
+12566972    | DE LA CRUZ                | NICOLE ADRIANA            |     3.459.139,95
+12566973    | ZANABRIA                  | LUCY                      |     2.475.122,54
+12566974    | ALVAREZ                   | CARMEN PILAR              |     2.491.224,25
+12566975    | CASTILLO                  | JORGE JACKSON             |     2.544.386,50
+12566977    | OCHARAN                   | ANABEL ALEXANDRA          |     3.152.216,27
+12566978    | ORTIZ                     | MARY GLADYS               |     2.691.038,06
+12566979    | TEVES                     | MARIA DIONELLA            |     2.469.734,89
+12566980    | LORENA                    | MILAGROS GISELLE          |     2.915.110,11
+12566983    | VEGA                      | ROSENDO PABLO             |     2.323.805,76
+12566984    | CIUDAD                    | HIPOLITO ABRIL            |     2.703.853,51
+12566985    | MATTOS                    | ESTEFANI                  |     2.419.421,43
+12566986    | HONOR                     | GEANELLA CAROLINE         |     2.310.870,98
+12566989    | HOYOS                     | LISSETTE                  |     2.644.279,76
+12566991    | SEGURA                    | PATRICE ANNE              |     3.186.161,26
+12566993    | RETAMOZO                  | JULISSA LIZETH            |     2.519.112,38
+12566994    | RUIZ                      | GLADYS HORTENCIA          |     2.921.370,14
+12566995    | SOUQUON                   | JOSE                      |     2.396.413,81
+12566996    | BARCENA                   | MARTHA ANGELICA           |     2.608.097,35
+12566997    | ROJAS                     | YESHICA ROMINA            |     3.477.764,73
+12566998    | CAMPOS                    | CARLOS ALBERTO            |     2.269.222,83
+12566999    | RONCO                     | ERICK SEBASTIAN           |     3.316.985,42
+12567002    | APARICIO                  | MARIA ELENA               |     2.602.645,81
+12567004    | PAREDES                   | MARTHA ANGELICA           |     2.889.345,90
+12567006    | MOLERO                    | EVARISTA PAULA            |     2.505.036,90
+12567007    | PAREDES                   | ESPERANZA                 |     3.604.013,94
+12567008    | AVENDAÑO                  | IVONNE ELIZABETH          |     2.531.065,61
+12567013    | SANDOVAL DE MEZA          | HUGO ANDRES               |     2.472.304,91
+12567018    | TORRES                    | HECTOR LUIS               |     2.833.278,45
+12567019    | VASQUEZ                   | JULIO GUILLERMO           |     2.148.508,50
+12567020    | MENDOZA                   | MARIA DEL CARMEN          |     2.569.390,36
+12567021    | RENGIFO                   | HILDA MILAGRITOS          |     2.678.170,47
+12567022    | LEON VDA DE ZARZOSA       | GABRIELA DENISSE          |     2.724.452,59
+12567023    | SALCEDO                   | MARIA ESTHER              |     2.312.701,12
+12567025    | SIMMONS                   | LUCINDA MARGOT            |     2.515.646,98
+12567026    | BARTUREN                  | MARIA ELENA               |     3.453.667,02
+12567027    | SILVA                     | OBDULIA                   |     2.906.769,25
+12567028    | ECHEVARRIA                | RICHARD ENRIQUE           |     2.926.293,07
+12567031    | UNTIVEROS                 | GUILLERMO ANTONIO         |     3.060.538,95
+12567032    | CONDORI                   | CESAR FERNANDO            |     2.816.463,22
+12567033    | GONZALES                  | ANDRES                    |     3.031.935,98
+12567034    | DAVILA                    | SUSANA MAGDALENA          |     2.814.769,38
+12567037    | ZUTA                      | CAROLA KARINA             |     2.504.273,58
+12567039    | PLACENCIA                 | JUSTINIANO NICANOR        |     2.167.631,36
+12567041    | SADOWSKY                  | MICHELLE CHRISTINE        |     2.759.319,91
+12567042    | CORONEL                   | YASMINE ALEXIS            |     2.377.515,38
+12567043    | PINEDA                    | AURELIO SEGUNDINO         |     2.577.040,77
+12567044    | PACCHIONI                 | ROXANA CONSUELO           |     3.118.951,10
+12567045    | ROMERO DE RIOS            | CARLOS ALBERTO            |     3.051.821,09
+12567046    | ALEGRE                    | LUCY ELENA                |     2.469.263,16
+12567047    | LOARTE                    | LUCINDA MARGOT            |     2.449.796,99
+12567050    | BENAVENTE                 | BLANCA IRIS               |     2.894.097,58
+12567052    | DAVILA                    | FIORELLA SUZANNE          |     2.282.261,98
+12567054    | NEIRA                     | JOSE FREDDY               |     2.354.383,92
+12567055    | SALAS                     | MANUEL HERNAN             |     2.484.691,10
+12567056    | CAPUCHO                   | YESSICA                   |     3.136.498,09
+12567061    | CAHUA                     | JHONNY BEJER              |     3.349.180,37
+12567066    | VARGAS                    | CAROLINE                  |     3.585.725,44
+12567067    | ZARATE                    | PERCY ESTUARDO            |     2.174.980,66
+12567068    | CASTRO                    | ISELA LILIANA             |     2.786.018,68
+12567069    | ESPINOZA                  | CIRILO ALFONSO            |     2.728.334,29
+12567070    | GIRON                     | NORMAN BRUCE              |     2.651.951,21
+12567071    | VARA                      | ALDO JOSE                 |     2.810.459,30
+12567073    | VARGAS                    | MARIA LAURA               |     2.347.009,56
+12567074    | CASTAÑEDA                 | RAUL ABSALON              |     1.861.640,17
+12567075    | TRAGODARA                 | ALEXIA                    |     1.902.863,40
+12567076    | LEYVA                     | NICOLAS MARIANO           |     3.200.056,79
+12567079    | NUÑEZ                     | KAREN ROSSE               |     2.403.791,87
+12567080    | BURNEO                    | RICARDO ALEX              |     2.411.873,87
+12567081    | DELLY                     | VICTOR                    |     2.783.820,15
+12567082    | NUÑEZ                     | JOHANA LUCILA             |     2.698.474,27
+12567085    | MONTALVO                  | DAVID GABRIEL             |     3.008.445,50
+12567087    | SALAS                     | JUAN CARLOS               |     2.386.531,02
+12567089    | SOTO                      | GISSET MARGARITA          |     2.809.832,16
+12567090    | CASTILLO                  | DIEGO REYNALDO            |     2.847.924,28
+12567091    | RUIZ                      | RICARDO ALFONZO           |     2.053.674,68
+12567092    | ARCE                      | ANILU IRMA                |     3.438.768,41
+12567093    | TRILLO                    | BRUNO RENATO              |     2.278.516,75
+12567094    | GARDELLA                  | JHONNATHAN GIOVANNI       |     2.507.593,07
+12567095    | SALAZAR                   | AMAIA                     |     3.015.765,44
+12567098    | LOSTAUNAU                 | ALEJANDRA GUADALUPE       |     2.353.858,96
+12567100    | CHAVEZ                    | CARLOS ALBERTO            |     2.980.132,30
+12567102    | ALARCON                   | CRISTINA GLADYS           |     2.930.763,64
+12567103    | SOTELO                    | JOSE ANTONIO              |     2.537.510,52
+12567104    | NAPURI                    | JOSHUA LEONARDO           |     2.375.318,12
+12567109    | ONSIHUAY                  | MEDALIT REBECA            |     2.506.022,78
+12567114    | LEON                      | MARIA RITA                |     2.343.775,43
+12567115    | PENAGOS                   | GESELLE                   |     2.730.811,27
+12567116    | FARFAN                    | VIVIANA VANESSA           |     2.185.519,02
+12567117    | VIDALON                   | GIANCARLOS ARTURO         |     2.838.359,54
+12567118    | LA SERNA                  | MARISCELA ISABEL          |     2.922.754,11
+12567119    | SOTOMAYOR                 | RAUL FELIPE               |     2.724.117,71
+12567121    | TORRES                    | VICTOR MANUEL             |     2.561.990,05
+12567122    | GALINDO                   | MICHELLE CHRISTINE        |     2.603.256,11
+12567123    | VARGAS                    | FLOR DE MARIA             |     3.024.329,80
+12567124    | RODRIGUEZ                 | IVONNE MADELEINE          |     2.455.390,49
+12567127    | TOMATIS                   | LUCIA                     |     2.476.634,41
+12567128    | PERROTTA                  | ENA                       |     2.346.986,58
+12567129    | VILLA GARCIA              | FIORELLA DEL PILAR        |     2.529.775,36
+12567130    | MATEO                     | JIMMY ALEXANDER           |     2.606.296,86
+12567133    | MALPARTIDA DE CAÑOTE      | RICHARD TITO              |     2.274.106,00
+12567135    | OLIVRY                    | CLARA                     |     2.378.178,87
+12567137    | MARINA                    | JUAN CARLOS               |     3.160.078,19
+12567138    | JALLO DE AYALA            | RAMON ALBANO              |     2.943.002,42
+12567139    | SALAS                     | THOMAS JOSE               |     2.176.021,40
+12567140    | CERVANTES                 | JORGE LUIS                |     2.527.639,84
+12567141    | SEMINARIO                 | LUIS ENRIQUE              |     2.591.930,13
+12567142    | FERNANDEZ DE GARRATT      | LEONOR DORIS              |     3.195.785,19
+12567143    | NICHO                     | LUIGI ANTONINO            |     2.202.583,51
+12567146    | CASTILLO                  | MACARENA                  |     2.712.326,52
+12567148    | ALARCON                   | MILUSKA STEPHANY          |     2.793.442,48
+12567150    | DIEZ                      | LIZ                       |     2.886.348,20
+12567151    | ESPINOZA                  | BETTY GENARA              |     2.546.908,77
+12567152    | SALAS                     | GLADYS BERNARDA           |     2.618.894,92
+12567157    | RAZZETO                   | SAMY ADAM                 |     2.812.408,89
+12567162    | CONCHA                    | RICARDO ALEX              |     2.455.663,25
+12567163    | DELGADO                   | RICHARD TITO              |     2.228.889,91
+12567164    | GUEVARA                   | ANDRES DAVID              |     2.677.575,95
+12567165    | PEREZ                     | MARIA LUISA               |     2.480.493,95
+12567166    | PACHAS                    | VERONICA ELIZABETH        |     2.811.607,19
+12567167    | VILELA                    | YAN PIERRE                |     2.503.851,94
+12567169    | PEREA                     | ANA MARIA DEL ROSARIO     |     3.099.850,53
+12567170    | CAVALLINI                 | MARY-ANN                  |     2.866.464,85
+12567171    | DELGADO DE SANCHEZ        | DESIREE F                 |     2.546.342,31
+12567172    | PLASENCIA                 | JOSE LUIS                 |     2.495.049,07
+12567175    | SIVINCHA                  | LILIAN SUSANA             |     2.483.445,27
+12567176    | CALLE                     | MARIA DEL CARMEN          |     2.031.468,89
+12567177    | SANCHEZ                   | DAVID GABRIEL             |     3.337.989,81
+12567178    | DECENA                    | FLOR VERONICA             |     3.112.830,53
+12567181    | IZQUIERDO                 | JOSE MANUEL               |     2.451.321,52
+12567183    | REICHARDT                 | CESAR MANUEL              |     2.877.777,82
+12567185    | QUEZADA                   | JULIO GIANCARLO           |     3.007.370,88
+12567186    | CASTILLON                 | CINTHYA GRISELL           |     2.540.288,20
+12567187    | SANCHEZ                   | ERIKA                     |     2.695.060,69
+12567188    | JARA                      | EDUARDO XAVIER            |     2.563.425,31
+12567189    | MORON                     | JESUS FELIPE              |     2.583.955,89
+12567190    | BARREDA                   | JOSE ORLANDO              |     2.801.746,50
+12567191    | CASTRO                    | PABLO                     |     2.989.351,66
+12567194    | CHICCHON                  | ZENON                     |     3.066.470,29
+12567196    | DE ROJAS                  | KARLA ANGELA              |     3.107.621,45
+12567198    | BORJAS                    | JULIO MAXIMO              |     2.520.998,19
+12567199    | VARGAS                    | LUIS HERNAN               |     2.776.200,98
+12567200    | GIRON                     | VANESSA SAMANTA           |     2.092.704,60
+12567205    | TALAVERA                  | HUMBERTO GIANCARLO        |     2.570.885,15
+12567210    | GUTARRA                   | MELISSA                   |     1.951.363,04
+12567211    | PORRAS                    | CESAR EDWIND              |     2.802.687,43
+12567212    | BARRIGA                   | ALFREDO EMILIO            |     3.174.381,08
+12567213    | URQUIETA                  | JOSET JESUS               |     2.749.790,37
+12567214    | LEN                       | MARIA LOURDES             |     2.925.885,20
+12567215    | NUÑEZ                     | JOHN VIRGILIO             |     2.322.772,58
+12567217    | RAYGADA                   | MATTHIAS IGNACIO          |     3.291.594,88
+12567218    | OTOYA                     | MARIA PIA                 |     2.653.395,72
+12567219    | SEQUEIROS                 | MARIA ELIZABETH           |     2.192.812,82
+12567220    | BENDEZU                   | DANIEL ROBERTO            |     2.287.427,24
+12567223    | CAMONES                   | KATTY SUSANA              |     3.018.540,17
+12567224    | CHUNG                     | ROSANGELA VERONICA        |     2.358.708,27
+12567225    | PAJUELO                   | MARIA ELENA               |     2.500.436,50
+12567226    | CHAVEZ                    | SONIA                     |     2.134.822,67
+12567229    | CHAVEZ                    | JAVIER FRANCISCO          |     2.487.135,43
+12567231    | SOTELO                    | DENISE HAYDEE             |     2.575.764,65
+12567233    | SANCHEZ                   | HAYDEE ROSARIO            |     2.483.289,12
+12567234    | HUAMAN                    | HUGO ANDRES               |     2.619.763,30
+12567235    | ORE                       | KARINA ELIZABETH          |     2.422.624,26
+12567236    | MONTEZA                   | MARIA FRANCISCA           |     3.006.847,53
+12567237    | RODRIGUEZ                 | PEDRO MIGUEL GUSTAVO      |     1.976.858,12
+12567238    | GAMARRA                   | YONNY SANTIAGO            |     2.591.099,70
+12567239    | TORRES                    | MIRIAM MARUXA             |     3.438.255,94
+12567242    | OSCANOA                   | OLIVER FRITZ              |     3.048.115,43
+12567244    | GOMEZ                     | FRANK IRVING              |     2.821.608,18
+12567246    | LLANOS                    | JOSET JESUS               |     2.550.582,43
+12567247    | LLANOS                    | RICARDO ARTURO            |     3.039.659,93
+12567248    | ALARCON                   | THIAGO                    |     3.226.617,51
+12567253    | SEGURA                    | JOSE ANTONIO              |     2.522.581,13
+12567258    | CLEMENTE                  | TERESA                    |     2.797.390,20
+12567259    | LIMA                      | ESTHER MARICEL            |     3.321.230,31
+12567260    | MOSLEY                    | JULIO MAXIMO              |     1.863.359,88
+12567261    | ZEVALLOS                  | LILIANA CATALINA          |     1.795.397,43
+12567262    | GODINEZ                   | CRISTHIAN                 |     3.070.545,79
+12567263    | SAM-VARGAS                | JULIA                     |     2.257.547,86
+12567265    | RAFAEL                    | GIANELLA                  |     3.198.230,08
+12567266    | ANGELES                   | BRIEL KAELA               |     3.180.591,48
+12567267    | REYES                     | KATHERINE LYNN            |     3.000.475,22
+12567268    | QUISPE                    | MARGORIE DEL CARMEN       |     2.888.045,56
+12567271    | REYES                     | LEONOR AURORA             |     2.838.078,81
+12567272    | CAMPOS                    | MARIA DE JESUS            |     2.500.791,29
+12567273    | VALLE                     | CARLOS ANDRES             |     3.045.930,09
+12567274    | PIÑA                      | RICARDO                   |     2.808.551,45
+12567277    | VARGAS                    | KAREN ANGELICA            |     2.564.561,78
+12567279    | GONZALEZ                  | TIMOTEO                   |     2.707.078,18
+12567281    | SAUSA                     | SUSAN CATHERINE           |     2.672.990,45
+12567282    | ROJAS                     | LUCAS                     |     2.448.727,55
+12567283    | RUIDIAZ                   | LIZET                     |     2.407.369,52
+12567284    | CRUZADO                   | LIBIA HIDEKO              |     2.785.843,71
+12567285    | RIVERO                    | ANA                       |     2.679.933,60
+12567286    | SOTO                      | GINA PAOLA                |     1.936.826,54
+12567287    | TAFUR                     | YOLANDA                   |     2.818.526,66
+12567290    | LISE                      | ARMANDO ALFREDO           |     3.027.486,78
+12567292    | VELASQUEZ                 | MARY-ANN                  |     3.793.025,92
+12567294    | LESCANO                   | ROSA CLOTILDE             |     2.602.197,59
+12567295    | RAMIREZ                   | VICKY DESSIRRE            |     3.135.345,89
+12567296    | PEÑA                      | GLADYS                    |     2.175.057,23
+12567301    | LUCANA                    | PIERO THOMAS              |     2.496.876,43
+12567306    | BARRIENTOS                | BENITA                    |     2.590.043,42
+12567307    | HERNANDEZ                 | JOSE ORLANDO              |     2.869.376,32
+12567308    | HINOJOSA                  | MARIANA                   |     2.287.557,41
+12567309    | MANRIQUE                  | AIDEE ESPERANZA           |     2.744.764,24
+12567310    | MONTIEL                   | EMERITA                   |     2.662.712,00
+12567311    | OSORIO                    | JAVIER MIGUEL             |     2.627.916,08
+12567313    | VELASQUEZ                 | PIERRE ANDRE              |     2.609.786,73
+12567314    | AMPUERO                   | VICKY DESSIRRE            |     2.290.197,28
+12567315    | PORTUGAL                  | JANNY EVELYN              |     2.661.761,99
+12567316    | HUAMAN                    | LELIA                     |     2.635.674,91
+12567319    | LEZCANO                   | DOMINIK ALEJANDRO         |     3.213.433,88
+12567320    | GARCIA                    | CARLOS ANDRES             |     2.573.020,08
+12567321    | SIPION                    | YVONNE VIVIENNE           |     3.284.684,42
+12567322    | BERRY                     | ALDA LUISA                |     2.469.288,46
+12567325    | ORE                       | ELSA CARMELA              |     2.972.307,57
+12567327    | RODRIGUEZ                 | CAROLINA ROSA             |     2.826.585,32
+12567329    | RIOS                      | JESSICA PAOLA             |     2.860.285,88
+12567330    | AGUEDA                    | CHRISTINA DIANA           |     2.643.466,10
+12567331    | ARAUJO                    | JOSE MIGUEL               |     2.362.349,93
+12567332    | CARRASCO                  | MARILIA                   |     2.943.760,94
+12567333    | GABE                      | MANUEL JESUS              |     2.945.679,63
+12567334    | GONZALES                  | VICTORIA                  |     3.446.826,75
+12567335    | OCAÑA                     | JHON POOL                 |     2.924.398,51
+12567338    | VILA                      | JORGE AUGUSTO             |     2.313.219,55
+12567340    | REYES                     | FRANK IRVING              |     2.750.412,54
+12567342    | AQUINO                    | CRISTIAN                  |     2.701.311,30
+12567343    | RAMOS                     | LUIS HUMBERTO             |     3.177.933,03
+12567344    | ARBIZA                    | DENISE HAYDEE             |     3.638.802,12
+12567349    | RUIZ                      | DEISI KARINA              |     3.001.717,17
+12567354    | MUNIVE                    | JUAN ROBERTO              |     2.860.968,84
+12567355    | UBIDIA                    | ALDA LUISA                |     2.736.881,00
+12567356    | ARANGO                    | DAVID ANGELO              |     2.984.817,18
+12567357    | GRILL                     | LUISA EULALIA             |     2.889.245,94
+12567358    | OLIVERA                   | HERMANN EDUARDO           |     2.887.646,77
+12567359    | RAMIREZ                   | JULIO GIANCARLO           |     2.617.883,63
+12567361    | ROMERO                    | MERCEDES CAROL            |     3.120.633,48
+12567362    | BUSTINZA                  | ZANDALE PRISCILA          |     2.853.077,69
+12567363    | LOPEZ                     | CARMEN PATRICIA           |     2.728.340,30
+12567364    | ARIAS                     | CAROLINE                  |     2.303.915,49
+12567367    | ASTUDILLO                 | PEDRO ALFONSO             |     2.095.387,66
+12567368    | CABALLERO                 | YESSICA                   |     2.473.887,16
+12567369    | REYMUNDO                  | ULADISLAO                 |     3.545.687,42
+12567370    | HORNA                     | FABRIZIO ALEJANDRO        |     2.826.971,25
+12567373    | PAREDES                   | JUAN ANTONIO JEFFERS      |     3.053.781,55
+12567375    | LOAYZA                    | RAUL ABSALON              |     2.135.272,87
+12567377    | CRUZ                      | CARLOS                    |     3.214.535,51
+12567378    | LEAMAN                    | ALEXIA                    |     2.633.624,51
+12567379    | STOPP                     | NICOLAS MARIANO           |     2.190.389,11
+12567380    | ECHEVARRIA                | WILFREDO SEBASTIAN        |     2.362.155,10
+12567381    | GRANZA                    | ANN CATHERINE             |     2.094.443,16
+12567382    | CANDELA DE GUZMAN         | AGATHA LIZ                |     2.377.134,48
+12567383    | MALPARTIDA                | LUIS ENRIQUE              |     3.036.903,73
+12567386    | ANGELES                   | GABRIELA LEONOR           |     2.286.417,98
+12567388    | LEON                      | MARIA LUZ                 |     2.219.841,34
+12567390    | BENAVIDES                 | MIGUEL ANGEL              |     3.115.061,46
+12567391    | HUAMANI                   | ROMULO JORGE              |     2.362.552,39
+12567392    | LOYOLA                    | CELICA TRINIDAD           |     2.430.858,47
+12567397    | LANAZCA                   | DIEGO REYNALDO            |     2.516.449,01
+12567402    | AGUERO                    | GLADYS HORTENCIA          |     2.815.848,83
+12567403    | MEJIA DE JIMENEZ          | RICARDO ALFONZO           |     2.316.517,92
+12567404    | KILCOYNE                  | GINA PAOLA                |     2.858.528,48
+12567405    | PRADO                     | LUIS HUMBERTO             |     2.987.730,28
+12567406    | PANAQUE                   | EDWARD JHONATTAN          |     2.780.066,84
+12567407    | SAHOO                     | JESUS FELIPE              |     2.587.095,04
+12567409    | RIVERA                    | MILUSKA STEPHANY          |     3.152.502,55
+12567410    | PAREDES                   | MILAGROS GISELLE          |     3.142.880,24
+12567411    | RODRIGUEZ                 | BRITNEY                   |     2.805.200,95
+12567412    | CHAPILLIQUEN              | JUAN CARLOS               |     2.816.714,36
+12567415    | LUNA                      | EDILBERTO                 |     2.281.969,61
+12567416    | CAMARENA                  | STEFANO                   |     2.403.753,38
+12567417    | GORDILLO                  | JHONY WILLIAM             |     2.795.792,82
+12567418    | LEONARDO                  | JOSE MANUEL               |     2.393.600,90
+12567421    | TOLEDO                    | JEAN PIERRE               |     2.627.447,45
+12567423    | MAOKI                     | ANDRES                    |     2.409.300,65
+12567425    | POTTER                    | ANDDY JORDAN              |     2.823.884,74
+12567426    | HERRERA                   | HENRY IVAN STEWARD        |     2.438.829,36
+12567427    | RAMOS                     | MILAGROS VANESSA          |     3.234.764,89
+12567428    | CHIA                      | VICTOR                    |     3.125.570,09
+12567429    | LOAYZA                    | YORYI VILMA               |     2.707.709,97
+12567430    | BENAVIDES                 | JUAN ARCADIO              |     2.441.968,18
+12567431    | SOSA                      | CARLOS MANUEL             |     2.338.052,34
+12567434    | GARCIA                    | PERCY AGUSTIN             |     2.755.269,09
+12567436    | CORTES                    | ROXANA ARACELI            |     2.447.039,38
+12567438    | GARCIA                    | MARJORIE LAURA            |     2.591.275,45
+12567439    | GUADIAMOS                 | MARTIN ENRIQUE            |     2.454.274,62
+12567440    | GUTIERREZ                 | SHIRLEY                   |     2.506.530,39
+12567445    | VASQUEZ                   | ELIZABETH TEOFILA         |     2.971.277,80
+12567450    | NEIRA                     | LOGAN PAREDES             |     3.174.402,57
+12567451    | SALAS                     | MILTON ANGELO             |     2.505.679,14
+12567452    | DIAZ DE CARCAMO           | ZOILA SOLEDAD             |     2.374.545,05
+12567453    | GODOY                     | DARLING SOFIA             |     2.503.548,38
+12567454    | PEREZ                     | RAUL ANGEL JOSE           |     2.232.603,03
+12567455    | WINDER                    | LOGAN PAREDES             |     2.932.499,99
+12567457    | ESPINO                    | SANDRA FRANCESCA          |     2.912.413,29
+12567458    | ACEVEDO                   | SADIALY PAOLA             |     2.945.543,43
+12567459    | CONGORA                   | ANA                       |     2.481.393,56
+12567460    | ESPEJO                    | MARIO                     |     2.867.037,82
+12567463    | PULIDO                    | MARISSEL ALICIA           |     2.612.957,69
+12567464    | ROSAS                     | ANDRES EDUARDO            |     2.459.523,30
+12567465    | VELAOCHAGA                | CARLOS RAUL               |     2.283.986,30
+12567466    | VERGARA                   | GIOVANNI ORLANDO          |     3.501.691,46
+12567469    | CENTENO                   | HERMANN EDUARDO           |     3.150.118,20
+12567471    | VALDEZ                    | KATITZA ROSANA            |     2.471.257,97
+12567473    | NOVOA                     | BRITTANY ISABEL           |     2.501.634,99
+12567474    | HUERTAS                   | HENRY                     |     3.263.107,57
+12567475    | TANTARUNA                 | KARINA ELIZABETH          |     2.794.556,08
+12567476    | CASTILLO                  | LUCIA GABRIELA            |     2.529.282,52
+12567477    | MORI                      | GIUSEPPINA INMACULADA     |     2.496.374,38
+12567478    | ONTANEDA                  | ALVARO JUAN               |     2.770.011,77
+12567479    | VILLAREYES                | SUSANA MARIA              |     2.285.991,13
+12567482    | SILVA SANTISTEVAN         | OLGA VICTORIA             |     2.819.006,69
+12567484    | ECHEVARRIA                | ESTEFANI                  |     2.753.866,82
+12567486    | CHAVEZ                    | MELISSA                   |     2.896.397,76
+12567487    | ZARZOSA                   | JORGE ENRIQUE             |     3.226.708,34
+12567488    | MUÑOZ                     | JORGE LUIS                |     2.771.895,29
+12567493    | RODRIGUEZ                 | RAUL FELIPE               |     2.732.731,84
+12567498    | CASTILLO                  | JUAN MARTIN               |     2.781.036,73
+12567499    | MENDOZA                   | OBDULIA                   |     2.976.758,01
+12567500    | BORJA                     | EDITH                     |     2.881.747,95
+12567501    | CARDENAS                  | JOSE MIGUEL GIUSEPPI      |     2.923.807,56
+12567502    | CARRASCO                  | ARTURO ANDRE              |     2.896.916,09
+12567503    | TOVAR                     | MAXIMO GRIGORIY           |     2.782.912,06
+12567505    | ESPINOZA                  | LANA ROSE                 |     2.314.784,39
+12567506    | MONTES                    | MATTHIAS IGNACIO          |     2.640.580,96
+12567507    | SILVA SANTISTEBAN         | MIGUEL ANGEL              |     2.566.236,76
+12567508    | CASABONA                  | LUIGI ANTONINO            |     2.407.197,47
+12567511    | BAZAN                     | IGNACIO EDUARDO           |     3.106.246,25
+12567512    | LOYOLA                    | GIANELLA                  |     2.516.727,92
+12567513    | VALVERDE                  | JORGE ANTONIO             |     2.787.380,49
+12567514    | CARDICH                   | LUIS ALEJANDRO            |     2.391.453,12
+12567517    | LUNA                      | JORGE                     |     3.309.230,58
+12567519    | SALINAS                   | BRIANNA                   |     2.548.027,18
+12567521    | HERRERA                   | DIANA BRIGITTE            |     2.512.929,85
+12567522    | CORDOVA                   | JOSE ELIAS                |     2.952.969,18
+12567523    | VILLA                     | JUANA ROSA                |     2.507.755,10
+12567524    | DE DAVILA                 | LEONEL SAUL               |     3.032.412,27
+12567525    | DIAZ                      | CARLOS MANUEL             |     2.801.820,94
+12567526    | LARRIEGA                  | JUAN DE LA CRUZ           |     2.765.744,22
+12567527    | ROMAN                     | LILIAN SUSANA             |     2.425.333,33
+12567530    | DEXTRE                    | STEPHANIE                 |     2.692.816,15
+12567532    | TORRES                    | JAVIER MIGUEL             |     2.807.551,37
+12567534    | VASQUEZ                   | HAYDEE ROSARIO            |     2.585.910,36
+12567535    | ZAMUDIO                   | HECTOR                    |     2.142.331,48
+12567536    | ATOCHE                    | JANNY EVELYN              |     2.577.035,60
+12567541    | FERNANDEZ                 | VICTOR RAUL               |     2.596.479,06
+12567546    | DE VALDIVIA               | MIRIAM NELVA              |     2.638.646,94
+12567547    | ECHEANDIA                 | JORGE ALBERTO             |     3.293.088,55
+12567548    | NUÑEZ                     | JORGE AUGUSTO             |     2.441.863,00
+12567549    | POMA                      | JUAN CARLOS RODRIGO       |     1.397.644,40
+12567550    | ALFARO                    | JUAN JOSE                 |     2.212.742,62
+12567551    | MAURTUA                   | MARIO ANTONY              |     2.710.327,57
+12567553    | BEYTIA                    | JULIO CESAR               |     2.913.096,64
+12567554    | KIRK                      | JHONY WILLIAM             |     2.879.075,48
+12567555    | NUÑEZ                     | CELICA TRINIDAD           |     2.232.344,57
+12567556    | GARCIA DE KIMBERLING      | JUAN ARCADIO              |     2.536.866,69
+12567559    | URCIA                     | AIDEE ESPERANZA           |     3.037.945,61
+12567560    | MENA                      | CARLOS RAUL               |     2.674.668,93
+12567561    | SALDAÑA                   | ANA CATHERINE             |     3.125.736,43
+12567562    | TIEMROTH                  | ANA MARIBEL               |     2.583.330,30
+12567565    | SILVA                     | LELIA                     |     2.731.037,48
+12567567    | SANTIAGO                  | RICARDO CESAR             |     2.669.726,63
+12567569    | PAULI                     | JOSE                      |     2.293.879,17
+12567570    | FAJARDO                   | CAMILLE MEZARINA          |     3.576.882,35
+12567571    | PESARESSI                 | PATRICE ANNE              |     2.503.581,17
+12567572    | DEL AGUILA                | PAMELA LESLIE             |     2.570.210,40
+12567573    | MONTERO                   | ZENON                     |     2.928.686,39
+12567574    | GARCIA                    | ARMANDO                   |     2.846.329,34
+12567575    | PAUCAR                    | DANIEL ROBERTO            |     2.804.742,33
+12567578    | GARZON                    | GIULIAN ALEXANDER         |     2.842.231,24
+12567580    | ALMONTE                   | IVAN RAMON                |     2.660.120,22
+12567582    | VARAS                     | JOSE HUMBERTO             |     2.104.411,63
+12567589    | DE FRANKLIN               | LUISA EULALIA             |     2.828.011,24
+12567594    | CARBAJAL                  | SEVASTIAN ISAIAH          |     2.613.585,41
+12567595    | PALOMINO                  | VALERIA ALEJANDRA         |     2.521.512,58
+12567596    | MAGUIÑA                   | ZOILA SOLEDAD             |     2.647.061,65
+12567597    | SANCHEZ                   | ALVARO JUAN               |     2.519.345,64
+12567598    | CORAHUA                   | SUSANA MARIA              |     2.475.215,19
+12567599    | VASQUEZ                   | BRITNEY                   |     2.302.579,23
+12567601    | MARTINEZ                  | ELEODORO RICHARD          |     2.991.302,66
+12567602    | KILCOYNE                  | JORGE RAUL                |     2.257.629,37
+12567603    | PRADO                     | PIERRE ANDRE              |     2.597.932,07
+12567604    | ALTAMIRANO                | RICHARD WINSTON           |     2.471.768,59
+12567607    | VELASQUEZ                 | MARIA ELENA               |     3.077.585,67
+12567608    | JATAVE                    | DEISI KARINA              |     2.686.122,97
+12567609    | PINTO                     | GIANCARLOS ARTURO         |     2.595.953,37
+12567610    | NAPURI                    | JUANITA GISELLA           |     2.997.730,70
+12567613    | GIORFFINO                 | RENEE                     |     2.225.183,95
+12567615    | SAAVEDRA                  | ELISA INES                |     3.022.369,53
+12567617    | NUÑEZ                     | CESAR AUGUSTO             |     2.515.339,71
+12567618    | PUICON                    | LUIS ALBERTO              |     2.997.233,09
+12567619    | RIVERA                    | TANIA CAROLINA            |     2.104.397,11
+12567620    | URIZAR                    | PAOLA JANET               |     2.365.438,95
+12567621    | VELAZCO                   | JORGE RAUL                |     2.864.147,94
+12567622    | CORDOVA                   | ANTONIETA JANET           |     2.603.247,71
+12567623    | ORELLANA                  | ELENA REGINA              |     3.042.083,95
+12567626    | BRIONES                   | GLADYS                    |     2.790.320,44
+12567628    | CHAVEZ                    | LISSETTE                  |     2.381.118,27
+12567630    | GRILLO                    | CARLOS ALEJANDRO          |     2.304.233,12
+12567631    | ORE                       | MIGUEL                    |     2.881.429,61
+12567632    | LEON DE AYQUIPA           | ESPERANZA                 |     3.200.363,57
+12567637    | TUYA                      | CECILIA YOVANA            |     2.515.902,44
+12567642    | REYES                     | LUCCAS ANGELO             |     2.718.376,42
+12567643    | VALERIA                   | ANDDY JORDAN              |     2.483.642,15
+12567644    | CAMPOS                    | GESELLE                   |     2.296.357,08
+12567645    | VALLE                     | MOISES FLORENCIO          |     2.823.673,44
+12567646    | GARAY                     | RAUL OSCAR                |     2.639.780,06
+12567647    | MARTINEZ                  | ROXANA DEL CARMEN         |     2.261.008,56
+12567649    | SOTELO                    | JUAN CARLOS               |     2.664.756,06
+12567650    | FERNANDEZ CONCHA          | MARIANA                   |     2.578.381,91
+12567651    | NIQUEN                    | CLARA                     |     2.913.121,77
+12567652    | AYALA                     | MARIA DE LOS ANGELES      |     2.264.885,88
+12567655    | TAIÑA                     | JOSE ANTONIO              |     2.512.960,46
+12567656    | LLAMOJA                   | ROBERT                    |     2.516.982,92
+12567657    | VILLON DE DONAYRE         | JONATHAN MICHAEL          |     2.647.013,13
+12567658    | FERIA                     | BRENDA CAROL              |     2.411.411,04
+12567661    | PORTILLA                  | AARON                     |     2.442.625,22
+12567663    | PIEDRA                    | ALFREDO EMILIO            |     2.797.909,14
+12567665    | LINDO                     | AZUCENA LUCCIANA          |     1.979.608,11
+12567666    | CAMINO                    | BRANDON                   |     2.491.619,13
+12567667    | ESTRADA                   | CARLOS GABRIEL            |     2.821.598,42
+12567668    | SHIMOSE                   | CARMEN IRENE              |     2.617.099,17
+12567669    | SUAREZ                    | CRISTHIAN                 |     2.931.042,13
+12567670    | HUAMAN                    | ENA BEATRIZ               |     2.864.121,20
+12567671    | TRISTAN                   | GWENDOLYN GIANELLA        |     2.559.636,51
+12567674    | ARIAS                     | JESUS                     |     2.509.430,42
+12567676    | ABANTO                    | PAOLA DEL ROSARIO         |     2.743.070,90
+12567679    | RUBIO                     | ROSARIO MECEDES           |     3.258.016,45
+12567680    | CORTEZ                    | VICTOR LUIS               |     2.796.774,40
+12567685    | SISNIEGAS DE HOLCOMB      | PEDRO ISIDRO              |     2.481.361,67
+12567690    | GARAY                     | MARLIES KAREM             |     2.373.954,26
+12567691    | SARMIENTO                 | ANDRES DAVID              |     2.141.763,28
+12567692    | LEON                      | GIOVANNA ALEJANDRA        |     3.170.259,41
+12567693    | RAYGADA                   | EDWARD JHONATTAN          |     2.537.860,23
+12567694    | AVALOS                    | JOHANA LUCILA             |     3.176.188,76
+12567695    | PALMA                     | GLORIA MARGARITA          |     3.097.449,86
+12567697    | RODRIGUEZ                 | YASMINE ALEXIS            |     3.177.511,86
+12567698    | CORDOVA                   | OSCAR EDUARDO             |     3.261.614,43
+12567699    | CORDOVA                   | FELICIA                   |     3.069.121,04
+12567700    | CALENZANI                 | CAROLINA ROSA             |     2.592.361,43
+12567703    | ROJAS                     | RICARDO ARTURO            |     3.780.629,87
+12567704    | CHAHUAYO                  | RUTH OLINDA               |     2.147.804,43
+12567705    | ZEVALLOS                  | TANIA CAROLINA            |     2.574.507,34
+12567706    | SALINAS                   | MANUEL JESUS              |     2.486.858,93
+12567709    | GONZALES                  | DAMIAN JULIO              |     2.657.682,22
+12567711    | TAPARA                    | ALEJANDRA GUADALUPE       |     2.420.628,08
+12567713    | NICHO                     | CHRISTINA DIANA           |     2.333.987,74
+12567714    | CAYLLAHUA                 | PATRICIA ELIZABETH        |     2.705.801,80
+12567715    | PARIONA                   | HIPOLITO ABRIL            |     2.745.654,80
+12567716    | GAYTAN                    | LESLY ANGELICA HANNY      |     2.580.062,46
+12567717    | POLETTI                   | ROXANA                    |     2.707.189,62
+12567718    | ACUÑA                     | VERONICA MARIBEL          |     2.634.481,58
+12567719    | VASQUEZ                   | DANIEL JESUS              |     2.311.237,84
+12567722    | HUAMANZANA                | GIANKARLO MATTHEW         |     3.421.300,03
+12567724    | ARANGO                    | NESTOR ALCIDES            |     2.992.391,93
+12567726    | LUQUE                     | GENARO RICARDO            |     2.976.222,90
+12567727    | VELA                      | JORGE ENRIQUE             |     2.578.484,49
+12567728    | FLORES                    | JOSE ANDRES               |     2.640.443,05
+12567733    | SILVA                     | ELENA                     |     2.535.936,07
+12567738    | RAMOS                     | IVONNE MADELEINE          |     2.938.454,75
+12567739    | TORRES                    | DIEGO                     |     2.509.270,80
+12567740    | DIAZ                      | ROBERT                    |     2.409.118,08
+12567741    | VILLANUEVA                | ANA DENISE                |     2.726.920,66
+12567742    | GOMEZ                     | JOSE ANDRES               |     2.169.582,88
+12567743    | GUTIERREZ                 | NOHEMI LASTENIA           |     2.475.433,51
+12567745    | ROJAS                     | JAIME IVAN MARTIN         |     2.461.050,85
+12567746    | SANCHEZ                   | LUIS HERNAN               |     2.622.155,78
+12567747    | VERGARA                   | RANDY LUZ                 |     2.509.323,35
+12567748    | SALVATIERRA               | CARMEN ROSA               |     2.829.177,67
+12567751    | UBILLUS                   | ALESSANDRO                |     2.104.808,20
+12567752    | SANCHEZ                   | AZUCENA LUCCIANA          |     2.431.680,74
+12567753    | VALENCIA                  | DESIREE F                 |     2.501.617,33
+12567754    | GEREDA                    | ANDRES                    |     2.655.055,47
+12567757    | YARO                      | RUTH TANIA                |     3.140.456,72
+12567759    | TRISTAN                   | EDILBERTO                 |     2.681.212,21
+12567761    | NUÑEZ                     | LETTY CONCEPCION          |     2.542.476,03
+12567762    | ARTEAGA                   | GIULIANA PALOMA           |     2.200.925,69
+12567763    | VASQUEZ                   | CARMEN SUSANA             |     2.696.117,46
+12567764    | MARTINEZ                  | THOMAS JOSE               |     2.482.994,84
+12567765    | TORRICO                   | SACRAMENTO                |     2.435.567,10
+12567766    | CHACON DE LOYOLA          | AMIL TAF                  |     2.588.181,37
+12567767    | VALVERDE                  | CARLOS ALBERTO            |     2.612.214,45
+12567770    | GRIMALDI                  | GISSELLA ANTUANET         |     2.711.368,06
+12567772    | CHUMPEN                   | KARIM ARACELLY            |     2.675.437,77
+12567774    | BAJONERO                  | RICARDO GERMAN            |     2.396.784,72
+12567775    | LAOS                      | ZARELLE GUISELLE          |     3.063.697,79
+12567776    | ESTRADA                   | FELICITA VICTORIA         |     3.476.165,55
+12567781    | GUEVARA                   | RODOLFO OMAR              |     2.934.181,96
+12567786    | ESCOBAR                   | AMIL TAF                  |     2.529.864,56
+12567787    | PIÑAS DE CARO             | SERGIO DAVID              |     2.924.438,03
+12567788    | SALAZAR                   | SONIA                     |     2.801.501,39
+12567789    | VELASQUEZ                 | ROSALIA                   |     2.825.622,58
+12567790    | DEL CARPIO                | MOISES DAVID              |     2.649.587,27
+12567791    | HAAS                      | JUAN ROBERTO              |     3.014.035,72
+12567793    | MATTA                     | ROBERTO AUGUSTO           |     2.999.345,63
+12567794    | GARCIA                    | SUT LAN                   |     2.333.706,26
+12567795    | VENTOCILLA                | ENA BEATRIZ               |     2.476.321,31
+12567796    | RODRIGUEZ                 | MARIA ROCIO               |     2.127.267,51
+12567799    | SILVA                     | MIGUEL ANGEL              |     2.936.159,95
+12567800    | CALLE DE DODGE            | JAVIER FERNANDO           |     2.522.869,48
+12567801    | TENORIO                   | LUIS MIGUEL               |     2.166.387,24
+12567802    | BOCANEGRA                 | VICTORIA CELESTINA        |     2.704.862,98
+12567805    | SULCA                     | CYNTHIA EUFEMIA MICHELLE  |     2.962.542,62
+12567807    | GUIZADO                   | LUIS ALEJANDRO            |     3.021.241,44
+12567809    | PATIÑO PATRONI            | GRICELDA CLORINDA         |     2.825.164,54
+12567810    | BRACHO                    | RODOLFO DAVID ANTONIO     |     2.934.147,14
+12567811    | URIA                      | VICTORIA NORMA            |     2.862.970,78
+12567812    | VAGNER                    | VICTORIA NORMA            |     2.406.858,42
+12567813    | VIVANCO                   | CARMEN SHERLEY            |     2.928.832,34
+12567814    | NUNURA                    | MILAGROS VANESSA          |     2.898.220,01
+12567815    | OJEDA                     | NANCY ELIZABETH           |     2.688.033,76
+12567818    | BORDER                    | JORGE EDUARDO             |     2.638.424,19
+12567820    | CHIRINOS                  | RAUL OSCAR                |     3.157.109,46
+12567822    | TAKEUTI                   | MARGORIE DEL CARMEN       |     2.588.119,23
+12567823    | YAGUI                     | RAFAEL ARTURO             |     2.682.674,55
+12567824    | ACUÑA                     | ROSA ELVIRA               |     3.129.176,99
+12567829    | VARESE                    | CARLOS ALFONSO            |     2.737.180,49
+12567834    | MANRIQUE                  | GISSET MARGARITA          |     2.758.780,49
+12567835    | VELASQUEZ                 | HILDA VIOLETA             |     3.590.916,05
+12567836    | BURGA                     | IVONNE LIZETH             |     2.469.008,75
+12567837    | ZELAYA                    | JORGE JACKSON             |     2.213.936,69
+12567838    | DRAGAÑAC                  | LINA LUZ                  |     2.792.132,64
+12567839    | MACCHIAVELLO              | MARIA ESTHER              |     2.535.348,73
+12567841    | RODRIGUEZ-PASTOR          | CARLOS                    |     2.691.490,06
+12567842    | CAI DE KON                | EDUARDO ULISES            |     2.941.321,48
+12567843    | UN                        | EMBERY JESUS              |     2.629.233,56
+12567844    | ROSAS                     | LOIDA JUANA               |     2.500.603,97
+12567847    | DE SOUZA                  | MARITZA BLANCA            |     2.565.679,24
+12567848    | LLANOS                    | MARY GLADYS               |     3.328.291,58
+12567849    | OLIVER                    | MIRIAM MARUXA             |     2.777.980,59
+12567850    | CAMINO                    | RAUL GREGORIO             |     2.329.913,26
+12567853    | TORANZO                   | EDSON JHONATAN            |     2.968.785,69
+12567855    | MALQUI                    | ASHLEY IRENE              |     2.100.830,88
+12567857    | NEGRETE                   | RICARDO                   |     3.233.039,00
+12567858    | AGUILA                    | LUIS ALBERTO              |     2.400.151,39
+12567859    | GARCIA                    | JOHANNA                   |     2.575.248,10
+12567860    | MEDINA                    | VICTOR LEONIDAS           |     2.779.853,84
+12567861    | RODRIGUEZ                 | JORGE ANTONIO             |     2.577.337,18
+12567862    | CAMONES                   | JOSE ANTONIO              |     3.670.168,60
+12567863    | IBAÑEZ                    | JOSE MIGUEL               |     2.877.653,23
+12567866    | HIDALGO                   | SUSAN CATHERINE           |     2.896.071,53
+12567868    | MARTINEZ                  | RUBEN FILIBERTO           |     2.776.083,65
+12567870    | FLORES                    | CARLOS GUSTAVO            |     2.813.711,83
+12567871    | PACHECO                   | LUIS ALBERTO              |     2.171.805,21
+12567872    | OROSCO                    | RITA                      |     3.335.965,01
+12567877    | SANCHEZ                   | KELLY                     |     2.588.492,03
+12567882    | MONTES                    | JHONNY BEJER              |     2.747.577,07
+12567883    | VDA DE ZEGARRA            | KATHERINE LYNN            |     3.196.205,78
+12567884    | OTAROLA                   | HENRY IVAN STEWARD        |     2.612.565,64
+12567885    | URTEAGA                   | MARIA DIONELLA            |     2.192.474,59
+12567886    | VALENTINO                 | GIUSEPPINA INMACULADA     |     1.903.259,33
+12567887    | VALENTINO                 | CLAUDIA ISABEL            |     2.669.307,90
+12567889    | GARDELLA                  | DAMIAN JULIO              |     2.668.177,05
+12567890    | DIAZ                      | GIANMARCO GUSTAVO         |     3.135.476,55
+12567891    | PONCE DE LEON             | RICHARD ENRIQUE           |     2.820.436,41
+12567892    | AGUILAR                   | ELVA MARIA                |     2.807.463,51
+12567895    | RETIS                     | STEPHANO D' ALESSANDRO    |     2.490.906,72
+12567896    | MONTOYA                   | ELVIRA                    |     2.680.104,49
+12567897    | ROSA PEREZ                | HAYRO GABRIEL             |     2.630.179,97
+12567898    | CASTILLO                  | JOSE FERNANDO             |     2.556.717,89
+12567901    | SHAREI                    | FABIAN JOHANN             |     2.702.066,87
+12567903    | LEZAMA                    | HAROLD WOODROW            |     3.721.807,65
+12567905    | NECOCHEA                  | SHIZUE                    |     2.174.761,06
+12567906    | LEDESMA                   | ANABEL ALEXANDRA          |     2.761.937,16
+12567907    | TAPIA                     | ROLANDO                   |     1.981.309,74
+12567908    | ARAUJO                    | LUIS ALBERTO              |     2.773.301,80
+12567909    | MARCOS                    | JOSE ANTONIO              |     2.295.621,52
+12567910    | LEON                      | CAROLINA                  |     2.521.097,83
+12567911    | VARGAS                    | CAROLINA                  |     2.301.783,00
+12567914    | LOZA                      | MARIA FERNANDA            |     3.031.974,94
+12567916    | MINERVA                   | ELIZABETH MARIA           |     2.228.598,01
+12567918    | NASSI                     | FIORELLA LISSETTE         |     2.881.880,92
+12567919    | PULIDO                    | LUISA ESPERANZA           |     2.220.096,32
+12567920    | CAMPOS                    | MARIANA                   |     2.853.955,48
+12567925    | ROBLES                    | RAFAEL                    |     3.256.843,13
